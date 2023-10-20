@@ -7,7 +7,8 @@ public class Example {
 		int b = 20;
 		int c = a + b;
 		
-		System.out.println(c);
+		System.out.println("Value of a is >>" + a);
+		System.out.println("Value of b is >>" + b);
 	}
 
 }
